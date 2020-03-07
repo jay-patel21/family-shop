@@ -1,0 +1,19 @@
+.btn-outline-dark{
+    width: 49%;
+}
+ .navbar-light {
+     min-height: 95px;
+ }
+ .carousel-inner{
+    width:100%;
+    max-height: 200px !important;
+  }
+  .card {
+      width: 47%;
+  }
+  .btn-secondary  {
+         width: 190%;
+  }
+  .btn-outline-danger {
+      width: 100%;
+  }
